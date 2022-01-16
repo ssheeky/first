@@ -1,3 +1,5 @@
 
 My saved example
 Test Git Quick Start demo
+
+Can articles be published solely in the repository?  This might not be wise, as changes cannot be tracked if more than one person is making changes to the file at a given time. 
